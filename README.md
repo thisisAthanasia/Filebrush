@@ -6,6 +6,6 @@
 
 <p align="center">Filebrush Free includes 9 rules. Filebrush Pro includes 37, plus extra tools.</p>
 
-<p align="center">Available upon request.</p>
+<p align="center"><sub></sub>Available upon request.</p>sub></p>
 
 <p align="center"><sub>© 2026 Athanasia. All rights reserved.</sub></p>
